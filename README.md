@@ -9,17 +9,17 @@ It analyzes repository metadata, file structure, technologies, architecture, str
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔗 Analyze any public GitHub repository
-- ⭐ View repository metadata
-- 🧰 Detect technologies and tech stack
-- 🌳 Explore repository file structure
-- 🧠 Generate AI-powered repository summaries
-- 🏗️ Understand the project's architecture
-- 💡 Identify strengths and potential improvements
-- 🎓 Get a beginner-friendly explanation
-- ⚡ Fast React + Express architecture
+-  Analyze any public GitHub repository
+-  View repository metadata
+- detect technologies and tech stack
+- Explore repository file structure
+-  Generate AI-powered repository summaries
+-  Understand the project's architecture
+-  Identify strengths and potential improvements
+-  Get a beginner-friendly explanation
+-  Fast React + Express architecture
 
 
 
